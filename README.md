@@ -1,0 +1,1 @@
+This is my work on http://adventofcode.com/ 2022.  I'm not sure if I'll finish it, but I wanted to show it because it displays some of my more advanced code and a test suite.  I used C# 8.0.
